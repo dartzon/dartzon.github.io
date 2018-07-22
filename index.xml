@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Othmane AIT EL CADI&#39;s blog</title>
+    <link>https://othmanecadi.com/</link>
+    <description>Recent content on Othmane AIT EL CADI&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &lt;a href=&#34;mailto:dartzon@gmail.com&#34;&gt;Othmane AIT EL CADI&lt;/a&gt; - 2018</copyright>
+    
+	<atom:link href="https://othmanecadi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
