@@ -7,9 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &lt;a href=&#34;mailto:dartzon@gmail.com&#34;&gt;Othmane AIT EL CADI&lt;/a&gt; - 2018</copyright>
+    <lastBuildDate>Fri, 27 Jul 2018 01:19:11 +0100</lastBuildDate>
     
 	<atom:link href="https://othmanecadi.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://othmanecadi.com/about/</link>
+      <pubDate>Fri, 27 Jul 2018 01:19:11 +0100</pubDate>
+      
+      <guid>https://othmanecadi.com/about/</guid>
+      <description>Hi there, and welcome to my blog. My name is Othmane AIT EL CADI and I am software developer, a Linux enthusiast and a bit of a gamer when my son is sleeping or not crying for attention.
+I mainly write C++ code for a living and enjoy using it for my personal projects too. For this reason I&amp;rsquo;ve created this blog to share technical thoughts with the world and also to server as a personal reminder as I tend to forget a lot of the stuff I read or learn from others&amp;hellip; Also this is a good place where I can develop my English writing skills (Please bear with me if my grammar makes your eyes bleed).</description>
+    </item>
     
   </channel>
 </rss>
