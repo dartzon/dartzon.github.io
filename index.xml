@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &lt;a href=&#34;mailto:dartzon@gmail.com&#34;&gt;Othmane AIT EL CADI&lt;/a&gt; - 2018</copyright>
-    <lastBuildDate>Fri, 27 Jul 2018 01:19:11 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jul 2018 01:30:44 +0100</lastBuildDate>
     
 	<atom:link href="https://othmanecadi.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resume</title>
+      <link>https://othmanecadi.com/resume/</link>
+      <pubDate>Fri, 27 Jul 2018 01:30:44 +0100</pubDate>
+      
+      <guid>https://othmanecadi.com/resume/</guid>
+      <description>Contact E-mail address: othmane.aitelkadi@gmail.com
+Cell Phone: +212 6 04 51 33 07
+Location: Casablanca, Morocco
+Work Experience 03/2016 – Present
+Cross-platform C/C++ Software engineer at 4D
+ Develop a C++ connector for Oracle DBMS, used to access DB data via Wakanda&amp;rsquo;s Server-Side JavaScript API Migrate Wakanda&amp;rsquo;s SQL connection framework from C++98 to modern C++11 and C++14 Boosted the Oracle connector&amp;rsquo;s speed considerably compared to other connectors by moving to the C++ standard library&amp;rsquo;s classes and algorithms  01/2013 – 02/2016</description>
+    </item>
     
     <item>
       <title>About</title>
